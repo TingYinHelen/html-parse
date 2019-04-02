@@ -58,4 +58,6 @@ class EndTagToken {}
 
 module.exports = {
     TokenGenerate,
+    StartTagToken,
+    EndTagToken,
 };

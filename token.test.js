@@ -1,6 +1,6 @@
 const { TokenGenerate } = require('./token.js')
 
-const template = `<html><header><header></html>`;
+const template = `<html><header></header></html>`;
 
 const onToken = {
     receiveInput: function(token) {
